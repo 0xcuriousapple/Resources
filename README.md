@@ -20,3 +20,10 @@
 
 ## Git Markdown
 * https://guides.github.com/features/mastering-markdown/
+
+## tfjs-vis
+* Doc https://js.tensorflow.org/api_vis/latest
+* API live : https://storage.googleapis.com/tfjs-vis/api/dist/index.html
+* API source :https://github.com/tensorflow/tfjs/tree/master/tfjs-vis/demos/api
+* Visualizing training with tfjs-vis : https://storage.googleapis.com/tfjs-vis/mnist/dist/index.html
+
