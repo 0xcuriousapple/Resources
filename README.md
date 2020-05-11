@@ -23,8 +23,9 @@ https://reactjs.org/docs/introducing-jsx.html
 ## SSE
 * https://alligator.io/nodejs/server-sent-events-build-realtime-app/
 
-## Git Markdown
-* https://guides.github.com/features/mastering-markdown/
+## Git
+* Markdown https://guides.github.com/features/mastering-markdown/
+* Pages https://pages.github.com/
 
 ## tfjs-vis
 * Doc https://js.tensorflow.org/api_vis/latest
