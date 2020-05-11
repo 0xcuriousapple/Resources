@@ -27,6 +27,11 @@ https://reactjs.org/docs/introducing-jsx.html
 * Markdown https://guides.github.com/features/mastering-markdown/
 * Pages https://pages.github.com/
 
+## SEO
+https://webris.org/google-index/
+https://search.google.com/search-console/welcome
+
+
 ## tfjs-vis
 * Doc https://js.tensorflow.org/api_vis/latest
 * API live : https://storage.googleapis.com/tfjs-vis/api/dist/index.html
